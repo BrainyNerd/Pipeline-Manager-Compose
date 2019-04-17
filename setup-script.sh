@@ -2,6 +2,6 @@
 set -e
 
 git clone https://github.com/BrainyNerd/pipeline-manager-api.git
-cd Pipeline-Manager
+cd pipeline-manager-api
 git clone https://github.com/BrainyNerd/pipeline-manager-web.git
 
